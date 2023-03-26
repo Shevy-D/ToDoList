@@ -29,4 +29,5 @@
     <string name="remove">Remove</string>
     <string name="todo_error">Please enter a Todo</string>
     <string name="night_mode_pref_key">false</string>
+    <string name="email_address">dmitriy_shevyakov@mail.ru</string>
 </resources>
